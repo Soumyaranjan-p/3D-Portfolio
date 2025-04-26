@@ -1,4 +1,4 @@
-# 🌐 Personal Portfolio
+# 🚀 3D Developer Portfolio
 
 An interactive and visually engaging personal portfolio built with **React**, **Three.js**, **Vite**, and **WebAPI**. This project serves as a platform to showcase my technical skills, projects, and creativity in modern web development.
 
@@ -6,26 +6,48 @@ An interactive and visually engaging personal portfolio built with **React**, **
 
 🔗 [View Live Site](https://your-portfolio-link.com)
 
+
+
+
+
+## 📚 Table of Contents
+
+- [Features](#-features)
+- [Tech Stack](#-tech-stack)
+- [Project Structure](#-project-structure)
+- [Getting Started](#-getting-started)
+- [Assets](#-assets)
+- [Contact Me](#-contact-me)
+- [Suggestions or Feedback](#-suggestions-or-feedback)
+- [Like This Project?](#-like-this-project)
+
 ---
 
 ## ✨ Features
 
-- 🧠 Modern, component-based architecture with **React**
-- ⚡ Lightning-fast development and build using **Vite**
-- 🎨 Immersive 3D visuals powered by **Three.js**
-- 📡 Dynamic data handling with **WebAPI**
-- 📱 Fully responsive and mobile-friendly design
-- 🌓 Smooth user experience with subtle animations and interactions
+- 🔥 3D visuals powered by **React Three Fiber** and **Drei**
+- ⚡ Smooth transitions and scroll-based animations using **Framer Motion**
+- 🎨 Clean, responsive UI with **TailwindCSS**
+- 💌 Working contact form using **EmailJS**
+- 🧱 Beautiful UI enhancements with **Aceternity UI** and **Magic UI**
+- 🚀 Lightning-fast development with **Vite**
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠 Tech Stack
 
-- **Frontend:** React, Three.js, Vite
-- **Styling:** CSS3, Tailwind (optional)
-- **APIs:** WebAPI (for fetching dynamic content)
+| Tech              | Description                           |
+|-------------------|---------------------------------------|
+| React             | Front-end JavaScript library          |
+| Vite              | Fast bundler and dev environment      |
+| TailwindCSS       | Utility-first CSS framework           |
+| React Three Fiber | 3D rendering with Three.js in React   |
+| Drei              | Helpers and abstractions for R3F      |
+| Framer Motion     | Animation library for React           |
+| EmailJS           | Form handling and email integration   |
+| Aceternity UI     | Custom UI components                  |
+| Magic UI          | Prebuilt UI elements and design extras|
 
----
 
-## 📁 Project Structure
+
 
