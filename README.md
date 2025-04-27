@@ -4,7 +4,7 @@ An interactive and visually engaging personal portfolio built with **React**, **
 
 ## 🚀 Live Demo
 
-🔗 [View Live Site](https://your-portfolio-link.com)
+🔗 [View Live Site](https://3-d-portfolio-f1xa.vercel.app/)  (Due to some reasons its not working)
 
 
 
