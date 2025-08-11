@@ -4,7 +4,7 @@ An interactive and visually engaging personal portfolio built with **React**, **
 
 ## 🚀 Live Demo
 
-🔗 [View Live Site](https://3-d-portfolio-f1xa.vercel.app/)  (Due to some reasons its not working)
+🔗 [View Live Site]( https://3-d-portfolio-f1xa.vercel.app/)  (Due to some reasons its not working)
 
 
 
@@ -47,6 +47,7 @@ An interactive and visually engaging personal portfolio built with **React**, **
 | EmailJS           | Form handling and email integration   |
 | Aceternity UI     | Custom UI components                  |
 | Magic UI          | Prebuilt UI elements and design extras|
+
 
 
 
