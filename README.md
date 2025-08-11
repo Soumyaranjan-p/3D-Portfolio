@@ -17,7 +17,7 @@ An interactive and visually engaging personal portfolio built with **React**, **
 - [Project Structure](#-project-structure)
 - [Getting Started](#-getting-started)
 - [Assets](#-assets)
-- [Contact Me](#-contact-me)
+- [Contact Me](#ranjanparidasoumya04@gmail.com)
 - [Suggestions or Feedback](#-suggestions-or-feedback)
 - [Like This Project?](#-like-this-project)
 
@@ -47,6 +47,7 @@ An interactive and visually engaging personal portfolio built with **React**, **
 | EmailJS           | Form handling and email integration   |
 | Aceternity UI     | Custom UI components                  |
 | Magic UI          | Prebuilt UI elements and design extras|
+
 
 
 
